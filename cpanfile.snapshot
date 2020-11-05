@@ -1,0 +1,23 @@
+# carton snapshot format: version 1.0
+DISTRIBUTIONS
+  Curses-1.37
+    pathname: G/GI/GIRAFFED/Curses-1.37.tar.gz
+    provides:
+      Curses 1.37
+      Curses::Field 1.37
+      Curses::Form 1.37
+      Curses::Item 1.37
+      Curses::Menu 1.37
+      Curses::Panel 1.37
+      Curses::Screen 1.37
+      Curses::Window 1.37
+    requirements:
+      ExtUtils::MakeMaker 0
+  Term-Animation-2.6
+    pathname: K/KB/KBAUCOM/Term-Animation-2.6.tar.gz
+    provides:
+      Term::Animation 2.6
+      Term::Animation::Entity undef
+    requirements:
+      Curses 1.06
+      ExtUtils::MakeMaker 0
