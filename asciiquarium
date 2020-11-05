@@ -25,6 +25,22 @@
 #     Wallaper for Android)
 #     https://market.android.com/details?id=org.helllabs.android.asciiquarium
 #
+#   driechers: https://github.com/driechers
+#     contributed the yellow submarine and re-introductoin of elements by
+#     Kirk Baucom that apparently were lost
+#     (https://github.com/cmatsuoka/asciiquarium/pull/6,
+#     https://github.com/cmatsuoka/asciiquarium/pull/5)
+#
+#   Carl Pilcher:
+#     ASCII art for the submarine https://ascii.co.uk/art/submarine
+#
+#   robert1003: https://github.com/robert1003
+#     contributed the swordfish implementation
+#     (https://github.com/cmatsuoka/asciiquarium/pull/12)
+#
+#   ctr: (?)
+#     ASCII art for the swordfish https://ascii.co.uk/art/fish
+#
 # License:
 #
 # Copyright (C) 2013 Kirk Baucom (kbaucom@schizoid.com)
